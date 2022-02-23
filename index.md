@@ -1,5 +1,5 @@
-## Jeff's Hot Goss
 
-Jeff Cowan likes tinned black olives and a loose burrito
+## Jeff Cowan likes tinned black olives and a loose burrito
 
-TODO: add image(s)
+![nom-olives](https://m.media-amazon.com/images/I/61pQDEb5ZcL._SL1350_.jpg)
+
